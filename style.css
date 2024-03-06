@@ -1,0 +1,28 @@
+body {
+    background-color: lightgreen;
+}
+h1 {
+    text-align: center;
+    color: crimson;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+    color: crimson;
+    line-height: 40px;
+    font-size: 35px;
+    text-decoration: underline black;
+}
+
+a:hover {
+    color: aqua;
+}
+a:active {
+    color: aquamarine;
+}
